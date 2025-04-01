@@ -3,11 +3,3 @@ blah blah
 weh weh weh
 
 more textt
-------------------------------
-dance
-dance
-dance
-
-2nd new line
--------------------------------
-3rd new line
