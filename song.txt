@@ -7,3 +7,5 @@ more textt
 dance
 dance
 dance
+
+2nd new line
