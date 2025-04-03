@@ -2,6 +2,8 @@ swords and spells
 blah blah
 weh weh weh
 
+
+
 more textt
 ------------------------------
 dance
@@ -12,5 +14,9 @@ dance
 -------------------------------
 3rd new line
 
+
+
 plepleple
 these lines weren't here before
+
+new lines for the test
